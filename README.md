@@ -1,4 +1,5 @@
 # meta_commit markdown support
+[![Build Status](https://travis-ci.org/meta-commit/markdown_support.svg?branch=master)](https://travis-ci.org/meta-commit/markdown_support)
 
 This gem adds markdown language support to [meta_commit](https://github.com/usernam3/meta_commit) commands
 
